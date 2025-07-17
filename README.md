@@ -8,8 +8,7 @@
 - создавала аналитическое представление,
 - и визуализировала метрики в Power BI (в том числе доходность, волатильность и сравнительную динамику).
 
-![График 30-дневной скользящей волатильности Tesla и Rivian](tesla-rivian_stock-analysis/imgs
-/vol_30.png)
+![График 30-дневной скользящей волатильности Tesla и Rivian](https://github.com/missnesvetova/tesla-rivian_stock-analysis/blob/main/imgs/vol_30.png)
 
   (подробнее кейс представлен ниже в разделе "Проекты") 
 
